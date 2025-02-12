@@ -12,7 +12,7 @@
             <td>: 09030282327025</td>
         </tr>
     </table>
-
+**50 commend dasar linux**
 1 pwd → Menampilkan path direktori saat ini.<br>
 ![image](https://github.com/user-attachments/assets/adaba77b-ebcd-4217-b941-0c51124c6c0c)<br>
 
