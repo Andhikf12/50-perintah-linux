@@ -1,3 +1,18 @@
+<table>
+        <tr>
+            <th>Nama</th>
+            <td>: Andhika Fajjriansyah</td>
+        </tr>
+        <tr>
+            <th>Kelas</th>
+            <td>: Tk 4 B</td>
+        </tr>
+        <tr>
+            <th>Nim</th>
+            <td>: 09030282327025</td>
+        </tr>
+    </table>
+
 1 pwd → Menampilkan path direktori saat ini.<br>
 ![image](https://github.com/user-attachments/assets/adaba77b-ebcd-4217-b941-0c51124c6c0c)<br>
 
