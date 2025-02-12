@@ -14,8 +14,8 @@
     </table>
 **50 commend dasar linux**<br>
 1 pwd → Menampilkan path direktori saat ini.<br>
-![image](https://github.com/user-attachments/assets/adaba77b-ebcd-4217-b941-0c51124c6c0c)<br>
 
+![image](https://github.com/user-attachments/assets/adaba77b-ebcd-4217-b941-0c51124c6c0c)<br>
  
 2.clear→menghapus comen sebalumnya<br>
 ![image](https://github.com/user-attachments/assets/fed1233e-706e-4954-80ac-0c9175f8f3ff)<br>
